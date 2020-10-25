@@ -11,3 +11,5 @@
 
 4.F12开发者模式切换至Network获取session
 https://pic3.zhimg.com/80/v2-fd579cb4f003bbe68cc8eeca9a988ebe_720w.jpg?source=1940ef5c
+
+5.填入session
